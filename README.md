@@ -1,8 +1,15 @@
-# Introduction
+# <a href="https://medium.com/@firatmelih/backend-roadmap-table-of-contents-8c3d9a20383a"> Backend Roadmap — Table of Contents <a/>
+
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*guq-cy1aK-ZZlXOJzJ23nA.png"/>
+
+
+## <i>Introduction</i>
 
 <i>
 Hello,<br>
-you are in the table of contents of my series where I explain the Backend Roadmap main headings and subheadings in [roadmap.sh](https://roadmap.sh) as best I can. You should keep in mind that I prepared/am preparing this series primarily to learn it myself. First, I will learn it, then I will explain it. If you know better than me and notice my mistakes, please share it with me and other readers!
+you are in the table of contents of my series where I explain the Backend Roadmap main headings and subheadings in 
+<a href="https://roadmap.sh">roadmap.sh</a>
+as best I can. You should keep in mind that I prepared/am preparing this series primarily to learn it myself. First, I will learn it, then I will explain it. If you know better than me and notice my mistakes, please share it with me and other readers!
 </i>
 
 ## Internet
