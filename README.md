@@ -1,7 +1,8 @@
 # <a href="https://medium.com/@firatmelih/backend-roadmap-table-of-contents-8c3d9a20383a"> Backend Roadmap — Table of Contents <a/>
 
+<a href="https://medium.com/@firatmelih/backend-roadmap-table-of-contents-8c3d9a20383a">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*guq-cy1aK-ZZlXOJzJ23nA.png"/>
-
+<a/>
 
 ## <i>Introduction</i>
 
